@@ -674,7 +674,6 @@ git commit -m "Add project documentation"
 git push origin main
 ```
 
-Aapka GitHub project ab README ke saath properly documented ho jayega.
-=======
+========================================
 # -Industrial-Safety-AI-Copilot
->>>>>>> afb0c8ec06681a9944c33ac1ea2a66ddc05aefb5
+
