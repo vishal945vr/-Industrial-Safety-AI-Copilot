@@ -1,0 +1,14 @@
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+pypdf
+sentence-transformers
+python-dotenv
+Flask
+ultralytics
+opencv-python-headless
+langchain
+langchain-core
+langchain-groq
+huggingface-hub
